@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fatih/AndroidStudioProjects/MyHairCut/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/fatih/.gradle/caches/transforms-2/files-2.1/e90db7a616eaf9351c0b889db3785fcc/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17,18,31,44,45,46,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "633,768,903,978,1065,1855,2657,2784,2889,3004,3111",
+                        "endLines": "14,15,16,17,30,43,44,45,46,47,48",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "763,898,973,1060,1850,2652,2779,2884,2999,3106,3219"
+                    }
+                },
+                {
+                    "source": "/home/fatih/.gradle/caches/transforms-2/files-2.1/1a8fceaad391eea87c1d4097a6b6159a/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,208,353,488",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "203,348,483,628"
+                    }
+                },
+                {
+                    "source": "/home/fatih/.gradle/caches/transforms-2/files-2.1/f02c75cf263e6fdbbc69f378d07f539e/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "3224",
+                        "endLines": "51",
+                        "endColumns": "12",
+                        "endOffsets": "3369"
+                    }
+                }
+            ]
+        }
+    ]
+}

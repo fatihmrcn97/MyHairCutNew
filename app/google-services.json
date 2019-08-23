@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "110747549062",
+    "firebase_url": "https://myhaircut-249ec.firebaseio.com",
+    "project_id": "myhaircut-249ec",
+    "storage_bucket": "myhaircut-249ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110747549062:android:6f332b45815b0a81",
+        "android_client_info": {
+          "package_name": "com.example.myhaircut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110747549062-v3m52c8nthnvv8dl0t8o0b6ec5hsd8ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myhaircut",
+            "certificate_hash": "de18943db77a88d5f56bf5a46e5b181e7cb1e6fa"
+          }
+        },
+        {
+          "client_id": "110747549062-fe5b1p2m94cn93tikco8kr9rmbo78qtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWI8e77Vsr5n84r3gbXdnVpmn8x7geY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110747549062-fe5b1p2m94cn93tikco8kr9rmbo78qtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

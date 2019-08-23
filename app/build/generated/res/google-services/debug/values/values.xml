@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">110747549062-fe5b1p2m94cn93tikco8kr9rmbo78qtt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://myhaircut-249ec.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">110747549062</string>
+    <string name="google_api_key" translatable="false">AIzaSyDisWI8e77Vsr5n84r3gbXdnVpmn8x7geY</string>
+    <string name="google_app_id" translatable="false">1:110747549062:android:6f332b45815b0a81</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDisWI8e77Vsr5n84r3gbXdnVpmn8x7geY</string>
+    <string name="google_storage_bucket" translatable="false">myhaircut-249ec.appspot.com</string>
+    <string name="project_id" translatable="false">myhaircut-249ec</string>
+</resources>

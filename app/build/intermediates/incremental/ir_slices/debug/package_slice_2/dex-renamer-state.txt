@@ -1,0 +1,4 @@
+#Thu Aug 22 17:09:26 EET 2019
+base.0=/home/fatih/AndroidStudioProjects/MyHairCut/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
